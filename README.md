@@ -14,6 +14,9 @@ I'm a front-end developer currently studying at Noroff School of Technology and 
 - JavaScript
 - React.js 🔜
 - Tailwind 🔜
+- Bootstrap
+- OpenProps
+- SASS
 - Git
 - Responsive Web Design
 - UI/UX Design Principles
@@ -26,7 +29,7 @@ Here are some notable projects I have worked on:
 
 1. Community Science Museum: First semester project. GRADE: A  [Link to project](https://github.com/alexvedt/SP-CSM)
 2. Rick & Morty API: First API call [Link to project](https://github.com/Noroff-FED-Campus-Assignments/fed-y1-javascript-course-assignment_list-detail-with-api-alexvedt)
-3. CodeBuzz: Exam 1st year. GRADE: N/A [Link to project](https://github.com/Noroff-FED-Campus-Assignments/fed1-exam-alexvedt)
+3. CodeBuzz: Exam 1st year. GRADE: A[Link to project](https://github.com/Noroff-FED-Campus-Assignments/fed1-exam-alexvedt)
 
 Feel free to explore my repositories to see more of my projects and contributions.
 
