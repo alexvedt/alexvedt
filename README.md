@@ -12,12 +12,16 @@ I'm a front-end developer currently studying at Noroff School of Technology and 
 - HTML5
 - CSS3
 - JavaScript
-- React.js 🔜
-- Tailwind 🔜
+- React.js 
+- Tailwind 
 - Bootstrap
 - OpenProps
 - SASS
 - Git
+- Next.js
+- YAML
+- REST API
+- SQL
 - Responsive Web Design
 - UI/UX Design Principles
 - Problem Solving
